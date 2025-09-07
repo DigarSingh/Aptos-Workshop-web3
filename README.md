@@ -11,7 +11,7 @@ implementation to use the Petra Aptos Wallet extension (Devnet). On load, the dA
 * Frontend build pipeline unchanged (Webpack 4 legacy setup outputting to `docs/`).
 
 ## Preview
-
+![Book Library Dapp](./Screenshot 2025-09-08 010117.png)
 
 
 ## Prerequisites
