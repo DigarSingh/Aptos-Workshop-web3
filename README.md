@@ -6,7 +6,7 @@ implementation to use the Petra Aptos Wallet extension (Devnet). On load, the dA
 
 ## Current Status
 
-* Petra wallet connection logic added (`connectPetraWallet`).
+* Petra Aptos wallet connection logic added (`connectPetra Aptos Wallet`).
 * Book add / rent transaction calls are placeholders awaiting Aptos Move contract + transaction payload definitions.
 * Frontend build pipeline unchanged (Webpack 4 legacy setup outputting to `docs/`).
 
