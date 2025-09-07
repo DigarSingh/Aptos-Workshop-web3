@@ -1,0 +1,27 @@
+{
+  "main": "index.js",
+  "name": "book_library",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bignumber.js": "^9.0.1",
+    "ipfs-http-client": "^52.0.1",
+  "rlp": "^2.2.6"
+    
+  },
+  "scripts": {
+    "dev": "cross-env NODE_OPTIONS=--openssl-legacy-provider node index.js",
+    "start": "cross-env NODE_OPTIONS=--openssl-legacy-provider nodemon index.js",
+    "build": "cross-env NODE_OPTIONS=--openssl-legacy-provider webpack"
+  },
+  "devDependencies": {
+    "css-loader": "^5.2.7",
+    "friendly-errors-webpack-plugin": "^1.7.0",
+    "html-webpack-plugin": "3.2.0",
+    "style-loader": "^2.0.0",
+    "webpack": "4.29.6",
+    "webpack-cli": "^3.1.2",
+  "webpack-dev-server": "^3.11.2",
+  "cross-env": "^7.0.3"
+  }
+}

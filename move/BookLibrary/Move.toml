@@ -1,0 +1,12 @@
+[package]
+name = "BookLibrary"
+version = "0.0.1"
+
+[addresses]
+book_library = "0xe8bbda11f2562947e4518f58dbacdf4df1dd2c192157de8c190495b30660584b"
+
+[dev-addresses]
+book_library = "0xe8bbda11f2562947e4518f58dbacdf4df1dd2c192157de8c190495b30660584b"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "main" }
