@@ -1,4 +1,4 @@
-# Book Library (Aptos / Petra Edition)
+# Book Library Dapp
 
 Book Library is a decentralized application that helps maintain records of books with their metadata (title, cover image, ISBN, date, summary, and IPFS-hosted file).
 
@@ -12,7 +12,7 @@ implementation to use the Petra Aptos Wallet extension (Devnet). On load, the dA
 
 ## Preview
 
-If you publish the `docs/` folder (e.g. via GitHub Pages), the site will load and prompt for Petra wallet (if installed). The original preview link referenced Celo and may no longer reflect this version.
+
 
 ## Prerequisites
 
